@@ -1,0 +1,33 @@
+<meta charset="UTF-8">
+
+<h1>Mi primer programa HTML</h1>
+<br>
+será esto realmente un programa? Encuentra info al respecto
+<br>
+-Averigualo <a href="https://es.wikipedia.org/wiki/HTML#:~:text=HTML%20es%20un%20lenguaje%20de,por%20humanos%20como%20por%20m%C3%A1quinas.">AQUI</a>
+<br>
+<br>
+<br>
+<br>
+DESEAS DESCUBRIR UN VERDADERO LENGUAJE DE PROGRAMACION????
+<br>
+<a href="https://es.wikipedia.org/wiki/JavaScript">Clickea ¡AQUI!</a>
+<br>
+<script>	
+	alert("Esto si es lenguaje de programacion");
+</script>
+<br>
+
+<h1>Usando JavaScript por primera vez</h1>
+<script>
+    alert("Este es un pop-up en JavaScript");
+</script>
+
+Esto está fuera de JavaScript...
+<br>
+<br>
+<h1>Siempre Alura Latam</h1>
+<br>
+Para continuar con tu aprendizaje, puedes ingresar al siguiente link.
+<br>
+<a href="http://www.aluracursos.com">Alura Latam</a>
